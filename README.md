@@ -10,11 +10,6 @@
   <br/>
   - [CompTIA A+](https://www.credly.com/badges/fc5061a4-2fb9-4d15-b43a-554595ce0688/public_url)
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Matt O'Hop | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: www.linkedin.com/in/matt-o-hop-33122b126
 
 <!--
 **mjohop88/mjohop88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
